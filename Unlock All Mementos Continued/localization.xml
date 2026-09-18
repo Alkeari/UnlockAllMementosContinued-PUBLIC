@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MODULE_UAMC_NAME">
+			<Text>Unlock All Mementos Continued</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION">
+			<Text>Allow all memento slots to work and all mementos to be selected, even if they're not unlocked. Even when enabled, you may still progress in meta unlock trees.</Text>
+		</Row>
+	</EnglishText>
+	<LocalizedText>
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="zh_Hans_CN">
+			<Text>解锁全部纪念物（续）</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许所有纪念物槽位和所有纪念物被使用，即使没有解锁。即使开启本mod，您仍然可以继续解锁局外解锁。</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="zh_Hant_HK">
+			<Text>解鎖全部紀念物（續）</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>允許所有紀念物槽位和所有紀念物被使用，即使尚未解鎖。即使開啟本模組，您仍然可以繼續進行局外解鎖。</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="fr_FR">
+			<Text>Débloquer Tous les Souvenirs (Suite)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="fr_FR">
+			<Text>Permet à tous les emplacements de souvenirs de fonctionner et à tous les souvenirs d'être sélectionnés, même s'ils ne sont pas débloqués. Même activé, vous pouvez toujours progresser dans les arbres de déblocage méta.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="de_DE">
+			<Text>Alle Andenken Freischalten (Fortgesetzt)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="de_DE">
+			<Text>Ermöglicht es, dass alle Andenken-Plätze funktionieren und alle Andenken ausgewählt werden können, auch wenn sie nicht freigeschaltet sind. Auch bei Aktivierung können Sie weiterhin in Meta-Freischaltbäumen voranschreiten.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="it_IT">
+			<Text>Sblocca Tutti i Ricordi (Continuazione)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="it_IT">
+			<Text>Consente a tutti gli slot dei ricordi di funzionare e a tutti i ricordi di essere selezionati, anche se non sono sbloccati. Anche quando abilitato, puoi ancora progredire negli alberi di sblocco meta.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="es_ES">
+			<Text>Desbloquear Todos los Recuerdos (Continuación)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="es_ES">
+			<Text>Permite que todos los espacios de recuerdos funcionen y que se puedan seleccionar todos los recuerdos, incluso si no están desbloqueados. Incluso cuando está habilitado, aún puedes progresar en los árboles de desbloqueo meta.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="pt_BR">
+			<Text>Desbloquear Todas as Lembranças (Continuação)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="pt_BR">
+			<Text>Permite que todos os espaços de lembranças funcionem e que todas as lembranças sejam selecionadas, mesmo que não estejam desbloqueadas. Mesmo quando ativado, você ainda pode progredir nas árvores de desbloqueio meta.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="ru_RU">
+			<Text>Разблокировать Все Воспоминания (Продолжение)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="ru_RU">
+			<Text>Позволяет использовать все ячейки для воспоминаний и выбирать любые воспоминания, даже если они не разблокированы. Даже при включенном моде вы можете продолжать прогрессировать в ветках мета-разблокировки.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="pl_PL">
+			<Text>Odblokuj Wszystkie Pamiątki (Kontynuacja)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="pl_PL">
+			<Text>Pozwala na działanie wszystkich miejsc na pamiątki i wybieranie wszystkich pamiątek, nawet jeśli nie są odblokowane. Nawet po włączeniu nadal możesz robić postępy w drzewkach odblokowywania meta.</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="ja_JP">
+			<Text>すべての記念品をアンロック (継続版)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="ja_JP">
+			<Text>ロック解除されていない場合でも、すべての記念品スロットが機能し、すべての記念品を選択できるようにします。有効にしても、メタアンロックツリーの進行は可能です。</Text>
+		</Row>
+
+		<Row Tag="LOC_MODULE_UAMC_NAME" Language="ko_KR">
+			<Text>모든 기념품 잠금 해제 (연속)</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UAMC_DESCRIPTION" Language="ko_KR">
+			<Text>잠금 해제되지 않은 경우에도 모든 기념품 슬롯이 작동하고 모든 기념품을 선택할 수 있도록 합니다. 활성화된 상태에서도 메타 잠금 해제 트리에서 계속 진행할 수 있습니다.</Text>
+		</Row>
+	</LocalizedText>
+</Database>
