@@ -1,0 +1,1 @@
+insert or replace into GlobalParameters values ("THIS_IS_TO_ENSURE_THIS_THE_UNLOCK_MEMENTOS_MOD_ALWAYS_LOAD", 1);
